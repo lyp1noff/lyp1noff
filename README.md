@@ -61,7 +61,3 @@ Built GitHub Actions pipelines for backend services and iOS app builds, automati
 - 🌐 [LinkedIn](https://linkedin.com/in/paziuka)  
 - 📧 andrii@lyp1noff.com  
 - 🐦 Telegram: [@lyp1noff](https://t.me/lyp1noff)  
-
----
-
-> *"I like turning infrastructure into well-behaved software."*
